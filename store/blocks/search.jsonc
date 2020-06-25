@@ -38,20 +38,20 @@
   }
 },
 "flex-layout.col#filter":{
+  "props":{
+    "width ":"20%"
+  },
   "children":[
     "filter-navigator.v3"
-  ],
-  "props":{
-    "width ":"20%"
-  }
+  ]
 },
 "flex-layout.col#search":{
-  "children":[
-    "search-content"
-  ],
   "props":{
     "width ":"20%"
-  }
+  },
+  "children":[
+    "search-content"
+  ]
 },
 "search-content": {
   "blocks": ["gallery", "not-found"]
