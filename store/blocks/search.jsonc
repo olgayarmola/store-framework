@@ -32,7 +32,10 @@
   "children": [
     "flex-layout.col#filter",
     "flex-layout.col#search"
-  ]
+  ],
+  "props":{
+    "width ":"20%"
+  }
 },
 "flex-layout.col#filter":{
   "children":[
