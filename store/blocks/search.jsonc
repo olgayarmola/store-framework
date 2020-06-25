@@ -58,5 +58,10 @@
 },
 "gallery": {
   "blocks": ["product-summary.shelf"]
+},
+"filter-navigator.v3":{
+  "props":{
+    "width":"20%"
+  }
 }
 }
