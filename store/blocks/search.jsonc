@@ -38,7 +38,7 @@
 
 "flex-layout.col#filter":{
   "props":{
-    "width ":"20%"
+    "width":"20%"
   },
   "children":[
     "filter-navigator.v3"
@@ -47,7 +47,7 @@
 
 "flex-layout.col#search":{
   "props":{
-    "width ":"20%"
+    "width":"20%"
   },
   "children":[
     "search-content"
